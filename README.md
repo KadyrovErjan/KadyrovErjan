@@ -56,3 +56,10 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=kadyroverjan&show_icons=true&locale=en&theme=radical" alt="Stats" />
 </p>
+
+---
+
+### 🐍 Contribution Snake
+
+![snake gif](https://github.com/KadyrovErjan/KadyrovErjan/blob/output/github-contribution-grid-snake.svg)
+
