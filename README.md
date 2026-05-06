@@ -117,7 +117,7 @@ CRM-система для медицинских учреждений: паци�
 </tr>
 </table>
 
-### 🛠️ Developer Tools
+### 🛠️ Developer Tools & ML APIs
 
 <table>
 <tr>
@@ -134,11 +134,11 @@ CRM-система для медицинских учреждений: паци�
 </td>
 <td width="50%">
 
-**[💬 + More Projects](https://github.com/KadyrovErjan?tab=repositories)**
+**[🤖 ML Models API](https://github.com/KadyrovErjan/ML_models)**
 
-Смотри все проекты на GitHub — постоянно добавляю новые вещи в области backend-разработки и AI/ML.
+REST API на FastAPI с **6 обученными ML-моделями**: цены на жильё, авокадо, банковская классификация, диабет, успеваемость студентов и выживаемость на Титанике.
 
-`Python` `Django` `FastAPI` `PyTorch` `Docker`
+`Python` `FastAPI` `scikit-learn` `Uvicorn` `REST API`
 
 </td>
 </tr>
