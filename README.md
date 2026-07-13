@@ -220,9 +220,6 @@ REST API на FastAPI с **6 обученными ML-моделями**: цен�
 
 [![Email](https://img.shields.io/badge/Email-kadyroverjan007%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kadyroverjan007@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-KadyrovErjan-181717?style=for-the-badge&logo=github)](https://github.com/KadyrovErjan)
-[![Instagram](https://img.shields.io/badge/Instagram-erjankadyrov2006-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/erjankadyrov2006)
-[![Resume](https://img.shields.io/badge/Resume-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com/design/DAGtGriTqdI/66DTVS0J4Z4glKZV0TPDRg/view?utm_content=DAGtGriTqdI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks)
-
 </div>
 
 ---
